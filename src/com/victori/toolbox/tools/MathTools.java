@@ -150,4 +150,15 @@ public class MathTools {
 		bd = bd.setScale(places, RoundingMode.HALF_UP);
 		return bd.doubleValue();
 	}
+	
+	public static int roundToLastPowerOfTen(int n){
+		int length = String.valueOf(n).length();
+		String stTen = "1";
+		
+		for (int i = 0; i < length-1; i++) {
+			stTen+="0";
+		}
+		
+		return Integer.valueOf(stTen);
+	}
 }
