@@ -1,4 +1,4 @@
-package toolbox.utils;
+package com.victori.toolbox.utils;
 
 import java.io.BufferedReader;
 import java.io.File;

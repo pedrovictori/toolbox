@@ -1,4 +1,4 @@
-package toolbox.tools;
+package com.victori.toolbox.tools;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

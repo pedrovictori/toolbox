@@ -1,9 +1,9 @@
-package toolbox.tools;
+package com.victori.toolbox.tools;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import toolbox.utils.TextFile;
+import com.victori.toolbox.utils.TextFile;
 
 /**
  * @author Pedro Victori
