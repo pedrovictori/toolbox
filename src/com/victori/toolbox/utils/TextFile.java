@@ -20,6 +20,11 @@ public class TextFile{
 	public TextFile(String fileName){
 		file = new File(path+fileName);
 	}
+	
+	public TextFile(String fileName, String path){
+		file = new File(path+fileName);
+		this.path = path;
+	}
 
 	public int getLinesNumber(){ 
 		int lines = 0;
