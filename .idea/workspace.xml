@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faf54843-502d-4719-9379-b296d3760057" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.victori.toolbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.victori.toolbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/tools/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/victori/toolbox/utils/package-info.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +26,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="TextFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/utils/TextFile.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
@@ -29,17 +38,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MathTools.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java">
+      <file leaf-file-name="MathTools.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/tools/MathTools.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="48" column="42" lean-forward="true" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TextTools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/tools/TextTools.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
@@ -58,7 +76,15 @@
         <option value="$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java" />
         <option value="$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java" />
         <option value="$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -89,18 +115,6 @@
               <item name="toolbox" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="com.victori.toolbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toolbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.victori.toolbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toolbox" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -112,9 +126,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -220,7 +234,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/utils/TextFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/utils/TextFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
@@ -231,17 +245,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/tools/TextTools.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/tools/TextTools.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/victori/toolbox/tools/MathTools.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victori/toolbox/tools/MathTools.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="48" column="42" lean-forward="true" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
