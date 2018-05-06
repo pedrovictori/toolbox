@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.victori.toolbox</groupId>
+  <artifactId>toolbox</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180506180626</lastUpdated>
+  </versioning>
+</metadata>
