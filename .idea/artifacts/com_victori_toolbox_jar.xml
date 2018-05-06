@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.victori.toolbox:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/com_victori_toolbox_jar</output-path>
+    <root id="archive" name="com.victori.toolbox.jar">
+      <element id="module-output" name="com.victori.toolbox" />
+    </root>
+  </artifact>
+</component>
