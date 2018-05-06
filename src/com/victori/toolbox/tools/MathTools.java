@@ -47,7 +47,7 @@ public class MathTools {
 			int[] randomNumbers = new int[n];
 			ArrayList<Integer> list = new ArrayList<Integer>();
 			for (int i=min; i<=max; i++) {
-				list.add(new Integer(i));
+				list.add(i);
 			}
 
 			Collections.shuffle(list);
