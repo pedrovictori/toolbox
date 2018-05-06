@@ -26,6 +26,10 @@ public class TextFile{
 		this.path = path;
 	}
 
+	public TextFile(File file) {
+		this.file = file;
+	}
+
 	public int getLinesNumber(){ 
 		int lines = 0;
 		try{
